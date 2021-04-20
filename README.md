@@ -7,7 +7,7 @@
 <br><br><br><br>
 <center><img src="(https://user-images.githubusercontent.com/82844149/115333104-b0caa380-a15e-11eb-8f0a-227f3a97e932.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
 
-
+<center><img> </center><hr />
 
 <body bgcolor = "red">
 <p><strong>About Me</strong></p>
